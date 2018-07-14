@@ -1,5 +1,2 @@
-using system;
-console.write();
-sure()
-{
-}
+skjsdfhksf
+suresh lunch
